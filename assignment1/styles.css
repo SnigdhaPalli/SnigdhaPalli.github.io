@@ -1,0 +1,121 @@
+
+.header{
+    width: 60%;
+    background-image: linear-gradient(rgb(6, 52, 54), cadetblue) ;
+    text-align: center;
+    margin: auto;
+    color: burlywood;
+    font-family: "Verdana";
+}
+
+.header img{
+    height: 300px;
+    width: 300px; 
+    border-radius: 20px;
+}
+
+.container{
+    width: 60%;
+    margin: auto;
+    background-color: burlywood;
+    column-count: 2;
+    column-gap: 30px;
+    column-rule: 5px dashed cadetblue;	
+    border-bottom: 100px solid rgb(65, 134, 136);
+}
+
+.doggos{
+    color: rgb(75, 75, 75);
+    font-family: "Verdana";
+}
+
+.doggos p{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 50px;
+    margin-left: 50px;
+    font-family: "Helvetica";
+}
+
+.doggos h1{
+    line-height: 300%;
+    text-align: center;
+    margin-top: 0px;
+    font-family: "Verdana";
+}
+
+.doggos ul{
+    margin-top: 20px;
+    margin-bottom: 50px;
+    margin-right: 50px;
+    margin-left: 50px;
+    font-family: "Helvetica";
+}
+
+.doggos h2{
+    text-align: center;
+    font-family: "Verdana";
+
+}
+
+.doggos h3{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 25px;
+    margin-left: 25px;
+    font-family: "Helvetica";
+}
+
+.doggos h4{
+    text-align: center;
+    font-family: "Helvetica";
+}
+
+.horses{
+    color: rgb(75, 75, 75);
+    font-family: "Verdana";  
+}
+
+.horses p{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 50px;
+    margin-left: 50px;
+    font-family: "Helvetica";
+}
+
+.horses h1{
+    line-height: 300%;
+    text-align: center;
+    margin-top: 0px;
+    font-family: "Verdana";
+}
+
+.horses ol{
+    margin-top: 20px;
+    margin-bottom: 50px;
+    margin-right: 50px;
+    margin-left: 50px;
+    font-family: "Helvetica";
+}
+
+
+.horses h2{
+    text-align: center;
+    font-family: "Verdana";
+}
+
+.horses h3{
+    text-align: center;
+    font-family: "Helvetica";
+}
+
+
+    
+    
+
+
+
+
+
+
