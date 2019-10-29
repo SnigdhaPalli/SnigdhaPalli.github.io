@@ -25,7 +25,7 @@
             return res;
           })
           .then(res => res.map(c => c.title + " " + c.route_id))
-          .then(res => clickMe(res))
+          //.then(res => clickMe(res))
           .then(data => (document.querySelector(".content").innerText = data))
       }
 /*
